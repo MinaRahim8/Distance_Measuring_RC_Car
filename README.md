@@ -4,8 +4,7 @@ A remote-controlled car that measures distance. Drive it with a joystick, and it
 
 Built by **Minahil Rahimullah** and **Marco Tinoco** at the University of Illinois Chicago for CS 362.
 
-![Measurement vehicle and remote](images/hero.jpg)
-<img width="1819" height="708" alt="image" src="https://github.com/user-attachments/assets/47ae0669-d93b-4438-b157-86b9424a3700" />
+![Measurement vehicle and remote]
 <img width="1819" height="708" alt="image" src="https://github.com/user-attachments/assets/d456595a-783d-427a-8f63-3ba52bccacbb" />
 
 ---
@@ -57,9 +56,6 @@ where `r = 0.03175 m`, the wheel radius.
 | **Area** button, 4th press | Display the **area** (length × width) |
 
 To measure a room: press **Area** at one corner, drive along one wall, and press it again. Then drive along the adjacent wall, press it a third time, and press once more to see the area.
-
-![LCD showing a measurement](images/lcd-reading.jpg)
-<!-- Photo: the LCD mid-measurement -->
 
 ## Hardware
 
