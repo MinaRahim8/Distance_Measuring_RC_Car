@@ -4,7 +4,7 @@ A remote-controlled car that measures distance. Drive it with a joystick, and it
 
 Built by **Minahil Rahimullah** and **Marco Tinoco** at the University of Illinois Chicago for CS 362.
 
-![Measurement vehicle and remote]
+[Measurement vehicle and remote]
 <img width="1819" height="708" alt="image" src="https://github.com/user-attachments/assets/d456595a-783d-427a-8f63-3ba52bccacbb" />
 
 ---
@@ -73,11 +73,11 @@ To measure a room: press **Area** at one corner, drive along one wall, and press
 
 > **Note:** The nRF24L01 runs on **3.3 V**. Powering it from 5 V can damage it. A 10 µF capacitor across its VCC and GND helps keep the link stable.
 
-![Car wiring](images/car-wiring.jpg)
+![Car wiring]
 <img width="921" height="632" alt="image" src="https://github.com/user-attachments/assets/ebb0f9c6-5a07-4c57-a26c-b73a1c33b5f8" />
 
 
-![Remote wiring](images/remote-wiring.jpg)
+![Remote wiring]
 <img width="921" height="523" alt="image" src="https://github.com/user-attachments/assets/cfda5cfb-98da-47c0-93ad-342a8de1cf97" />
 
 
